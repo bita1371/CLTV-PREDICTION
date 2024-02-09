@@ -130,7 +130,7 @@ The # champions segment consists of users. For this segment:
 # ▪ Provide free shipping etc. opportunities.
 # ▪ Do not make suggestions in areas you know they are not interested in.
 # ▪ Loyalist customers can be turned into "brand advocates". These users
-# with Word-of-Mouth as they are already extremely loyal to the brand and products
+# mouth to mouth marketing as they are already extremely loyal to the brand and products
 # They are open to attracting new users and advocating products rather than the company.
 
 
